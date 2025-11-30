@@ -11,7 +11,9 @@ resultado=v1*v0;
 printf("el resultado es: %d\n", resultado);
 
 //ahora el siguiente texto se reprducira en la siguiente linea//
-printf("Fin del codigo");
+printf("Fin del codigo \n");
+//la oarte de \n sirve para saltar a la siguiente linea mientras que \t ayuda a escribir horizontalmente//
+printf("XX \nYY\t ZZ\t RR");
 
 return 0;
 }
